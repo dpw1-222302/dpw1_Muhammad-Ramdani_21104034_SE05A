@@ -1,0 +1,177 @@
+.btn {
+  padding: 12px 26px;
+  border-radius: 10px;
+  background-color: #a1cc3a;
+}
+
+.btn:hover {
+  background-color: #c8ff47;
+  color: #fff;
+}
+
+.lgn {
+  margin: 11px 0px;
+}
+
+.navbar {
+  background-color: #fe4247;
+  box-shadow: 0 3px 3px 0 rgba(0, 0, 0, 0.25);
+  padding: 0px;
+}
+
+.container {
+  max-width: 940px;
+  padding: 0px;
+  margin: 0px 481.5px;
+}
+
+.container-fluid {
+  max-width: 960px;
+  padding: 0px;
+  margin: 0px 470.5px;
+}
+
+section {
+  background-image: url("bg.png");
+  background-size: cover;
+  background-position: 50% 100%;
+  box-shadow: 0 3px 3px 0 rgba(0, 0, 0, 0.25);
+}
+
+body {
+  font-family: Roboto, sans-serif;
+}
+
+.pembatas {
+  padding: 10px 0px;
+  background-color: #f2f2f2;
+}
+
+.content {
+  box-shadow: 0 3px 3px 0 rgba(0, 0, 0, 0.25);
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  border-bottom: 2.5px solid #f2f2f2;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: #c4c4c4;
+  text-align: center;
+  padding: 18px 30px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: #f2f2f2;
+}
+
+li a:hover:not(.active) {
+  background-color: #f2f2f2;
+  border-bottom: 5px solid #f2f2f2;
+}
+
+.active {
+  border-bottom: 5px solid #a1cc3a;
+  color: #a1cc3a;
+}
+
+.card {
+  margin: 40px 0px;
+  border: 0px;
+}
+
+.card-body {
+  margin-left: 26px;
+  width: 606.172px;
+}
+
+h2 {
+  font-size: 24px;
+  margin-bottom: 15px;
+  font-weight: 800;
+}
+
+.card-title {
+  color: #333;
+}
+
+.card-text-p {
+  color: #666;
+  margin-bottom: 15px;
+}
+
+.card-text {
+  color: #666;
+}
+
+.tgl {
+  padding-right: 15px;
+}
+
+.bi-calendar-minus {
+  margin-right: 7px;
+  width: 14px;
+  height: 14px;
+}
+
+.bi-clock {
+  margin: 0px 7px;
+  width: 14px;
+  height: 14px;
+}
+
+.isi {
+  padding-bottom: 40px;
+}
+
+.subscriber {
+  padding-top: 40px;
+  padding-bottom: 80px;
+  background-color: #fe4247;
+}
+
+.container-subscriber {
+  max-width: 720px;
+  padding: 0px;
+  margin: 0px 591.500px;
+}
+
+.h2-sb {
+  margin-top: 20px;
+  
+}
+
+.footer {
+  background-color: #333;
+  padding: 75px 30px 16px 30px;;
+}
+
+.container-footer {
+  width: 479.719px;
+  margin-bottom: 60px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.container-footer p, .container-footer a, .container-footer div  {
+  color: #c4c4c4;
+  font-size: 13.7px;
+}
+
+.container-footer p, .container-footer a, .container-footer div  {
+  margin-bottom: 16px;
+}
+
+.container-footer div a img {
+  margin: 5px 6px 10px 6px;
+}
